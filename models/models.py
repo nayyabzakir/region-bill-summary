@@ -143,3 +143,4 @@ class region_bill_summary(models.Model):
 		})
 
 	
+

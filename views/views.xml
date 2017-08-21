@@ -43,5 +43,3 @@
   </record>
 
   <menuitem id="menu_Region_Bill_Summary" name="Bill Summary Wizard" parent="ufc_automization_10.menu_new_module" action="action_Region_Bill_Summary" sequence="8"/>
-
-</odoo>
